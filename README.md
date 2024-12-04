@@ -53,3 +53,11 @@ a aplicação é composta pelas seguintes classes e interface:
 2. clone o repositório:  
    ```bash
    git clone https://github.com/Antonio-Lins/Gerenciador-de-Tarefas-Java.git
+
+# Estrutura do Código
+gerenciador-de-tarefas-java/
+├── exibivel.java
+├── tarefa.java
+├── tarefasimples.java
+├── tarefacomprazo.java
+└── gerenciadortarefas.java
