@@ -14,7 +14,7 @@ este projeto utiliza conceitos fundamentais da programação orientada a objetos
 - adicionar tarefas simples ou com prazo.  
 - listar todas as tarefas, com detalhes como descrição, status e prazo (se aplicável).  
 - marcar tarefas como concluídas.  
-- navegar por um menu interativo no terminal.  
+- navegar por um menu interativo no terminal.   
 
 ---
 
