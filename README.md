@@ -2,7 +2,7 @@
 
 ## Descrição
 o **gerenciador de tarefas** é uma aplicação em java que permite organizar e gerenciar atividades. com ele, o usuário pode criar, listar e concluir tarefas. o sistema suporta dois tipos de tarefas:
-
+ 
 - **tarefa simples:** não possui prazo associado.  
 - **tarefa com prazo:** inclui uma data limite para conclusão.  
 
